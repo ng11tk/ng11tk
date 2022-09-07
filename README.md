@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ng11tk)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ng11tk&label=Profile%20views&color=0e75b6&style=flat" alt="ng11tk" /> </p>
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Hasura, Javascript, etc.
 - 🚀 &nbsp; I’m currently working as Full Stack Developer.
@@ -26,11 +25,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ng11tk&show_icons=true&hide_border=true&locale=en" alt="ng11tk" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ng11tk&show_icons=true&hide_border=true&locale=en&layout=compact" alt="ng11tk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ng11tk&show_icons=true&hide_border=true&locale=en&layout=compact" alt="ng11tk" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ng11tk&show_icons=true&hide_border=true&locale=en" alt="ng11tk" />
 
-</div>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ng11tk&theme=default" alt="ng11tk" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ng11tk&theme=default" alt="ng11tk" />
 
