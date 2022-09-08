@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Nitin Goyal!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Nitin Goyal!](https://github.com/ng11tk/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ng11tk)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
